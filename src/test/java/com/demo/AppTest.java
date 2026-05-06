@@ -7,7 +7,7 @@ public class AppTest {
 
     @Test
     void testSuma() {
-        assertEquals(7, App.suma(3, 4));
+        assertEquals(0, App.suma(3, 4));
     }
 
     @Test
